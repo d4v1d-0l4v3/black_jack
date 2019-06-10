@@ -44,7 +44,7 @@ class TBlackjack
 	};
 
 	// Number of plays per shuffle
-	static const unsigned int SHUFFLE00_PERIOD_PLAYS   = 6;
+	static const unsigned int SHUFFLE_PERIOD_PLAYS   = 6;
 	static const unsigned int BLACKJACK_VAL = 21;
 	static const unsigned int INIT_CARDS_NR = 2;
 	static const unsigned int ACE_MIN_VAL 	 = 1;
