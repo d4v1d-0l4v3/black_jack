@@ -10,6 +10,7 @@ Formulated conventions to read this document:
 	- User commands are enclosed by single quotes (ex: './command').
 	
 1. How to install and run virtual blackjack:
+
 	a. Install boost library if not previously installed. Ex: For Ubuntu (linux) distribution, type:
 
 		'sudo apt-get install libboost-all-dev'
