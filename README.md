@@ -15,9 +15,9 @@ Formulated conventions to read this document:
 
 		'sudo apt-get install libboost-all-dev'
 		
-	b. Clone black_jack from Github repository:
+	b. Clone black_jack from Github repository (git tool must be installed):
 	
-		'https://github.com/d4v1d-0l4v3/black_jack.git'
+		'git clone https://github.com/d4v1d-0l4v3/black_jack.git'
 
 	c. At the top level directory, type the utility command
 	
