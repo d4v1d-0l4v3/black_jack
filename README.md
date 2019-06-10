@@ -10,19 +10,26 @@ Formulated conventions to read this document:
 	- User commands are enclosed by single quotes (ex: './command').
 	
 1. How to install and run virtual blackjack:
+	a. Install boost library if not previously installed. Ex: For Ubuntu (linux) distribution, type:
 
-	a. After extracting the compressed package, simply type at the extracted top level directory the utility command
+		'sudo apt-get install libboost-all-dev'
+		
+	b. Clone black_jack from Github repository:
+	
+		'https://github.com/d4v1d-0l4v3/black_jack.git'
+
+	c. At the top level directory, type the utility command
 	
 		'make'
 	
-	b. 'make' will compile and generate the binary 'blackjack'.
-	c. Run virtual blackjack by typing at the same top folder directory the command:
+	d. 'make' will compile and generate the binary 'blackjack'.
+	e. Run virtual blackjack by typing at the same top folder directory the command:
 	
 		'./blackjack'
 		
-	d. And follow the game instructions.
+	f. And follow the game instructions.
 		
-	e. For information about Virtual Blackjack specific rules type:
+	g. For information about Virtual Blackjack specific rules type:
 		
 		'./blackjack -h'
 		
