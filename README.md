@@ -24,6 +24,7 @@ Formulated conventions to read this document:
 		'make'
 	
 	d. 'make' will compile and generate the binary 'blackjack'.
+	
 	e. Run virtual blackjack by typing at the same top folder directory the command:
 	
 		'./blackjack'
@@ -38,7 +39,9 @@ Formulated conventions to read this document:
 
 	a. The project software has been compiled and run only on an Ubuntu 14.04 LTS 
 	distribution hosted by an Intel Core i7 chip set (x86_64) with a 64 bit cpu architecture.
+	
 	b. The software must be compiled with a C++11 or newer compatible C++ standard compilers.
+	
 	c. The C++11 compatible compiler must include the "boost" library.
 	
 Any questions, comments or discovered bugs, please contact the author at david.olave@gmail.com.
